@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "../run_gpu"
+  "../run_gpu.pdb"
   "CMakeFiles/run_gpu.dir/run_gpu.cc.o"
-  "run_gpu"
-  "run_gpu.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
