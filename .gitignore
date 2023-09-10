@@ -1,3 +1,4 @@
 build/
-*.o 
+run_gpu
+run_cpu
 .vscode/ 
