@@ -1,4 +1,0 @@
-/home/jiho/slam/libtorch_yolov5_seg/build/CMakeFiles/edit_cache.dir
-/home/jiho/slam/libtorch_yolov5_seg/build/CMakeFiles/rebuild_cache.dir
-/home/jiho/slam/libtorch_yolov5_seg/build/CMakeFiles/run_gpu.dir
-/home/jiho/slam/libtorch_yolov5_seg/build/CMakeFiles/run_cpu.dir
